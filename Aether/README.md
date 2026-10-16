@@ -80,6 +80,6 @@ Before starting a task:
 
 ## Related pages
 
-- [Omni TTS ELO webinar notes]([ML_Aether_Omni-tts-elo.md])
+- [Omni TTS ELO webinar notes](ML_Aether_Omni-tts-elo.md)
 - [Troubleshooting guide](Guides/troubleshooting.md)
 - [Public community research](Research/community-reports.md)
