@@ -46,16 +46,4 @@ As more project meetings become available, add a separate folder under `Aether/W
 | **Practical interpretation** | A suggested way to apply the guidance or investigate a problem. |
 | **Unverified** | Plausible, but not confirmed by an official project representative or current documentation. |
 
-## Privacy, confidentiality, and responsible sharing
 
-Before making this repository public, remove personal names, email addresses, contributor IDs, task IDs, private Zoom links, internal screenshots, and anything the project rules prohibit sharing. Do not upload full internal guideline PDFs, client data, assessment answers, or confidential task content unless the project explicitly permits public redistribution. These notes intentionally summarize the meeting rather than reproduce a raw transcript. If you are unsure whether a detail is shareable, leave it out and link to an official public source instead.
-
-## Naming ideas
-
-The clearest name is **Outlier Project Preparation Library**. Other options:
-
-- `Outlier-Project-Field-Notes` — practical, experience-based notes.
-- `Aether-Task-Prep` — focused on Aether, but less suitable if the repository grows to other projects.
-- `AI-Training-Project-Notes` — broad and less tied to one company.
-
-**Recommendation:** keep the repository name `Outlier-project` if you prefer it, but use a descriptive subtitle in the README so visitors immediately understand that it is an independent preparation resource.
